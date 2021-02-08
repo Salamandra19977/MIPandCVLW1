@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.Form1.resources
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.Properties.Resources.resources
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\MIPandCVLW1.exe.config
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\MIPandCVLW1.exe
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\MIPandCVLW1.pdb
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.exe
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.pdb
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.Image.resources
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\NLog.dll
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\bin\Debug\NLog.xml
+C:\Users\User\source\repos\MIPandCVLW1\MIPandCVLW1\obj\Debug\MIPandCVLW1.csproj.CopyComplete
